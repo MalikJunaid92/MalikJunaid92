@@ -12,25 +12,32 @@
 
 ### 🚀 About Me
 
-- 🎓 Recent graduate, University of Education, Pakistan
-- 💻 I build full-stack web apps with **React, Node.js & TypeScript**
-- 🧩 I've solved **270+ problems on LeetCode** — sharpening my DSA every day
-- 🌱 Quick learner with a self-learning attitude — always picking up new tools and frameworks
+Full-stack developer who recently graduated and has been shipping real projects end to end — frontend, backend, and deployment.
+
+- 🔍 Enthusiastic learner and problem solver, passionate about tackling challenging issues to build things that work
+- 🌱 Currently going deep on AI Engineering — LLM APIs, agents, and RAG — alongside Algorithms and System Design
+- 💻 Full-stack builder with **React, Node.js & TypeScript** — LMS, E-shop, and Expense Tracker shipped and deployed
+- 🧩 Solved **270+ problems on LeetCode**, sharpening DSA daily
+- 👯 Looking to collaborate on solid backend and AI-integrated projects
 - 📫 Reach me through the links above
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,html,css,mongodb,mysql,git,github,figma,vscode" />
-</p>
+**AI engineering** — LLM APIs (Anthropic, OpenAI, Gemini), MCP, tool calling, agent loops, LangGraph, RAG, embeddings, pgvector, evals and LLM-as-judge, LoRA / QLoRA fine-tuning, vLLM, Ollama
+**Languages** — TypeScript, Python, Java, Go, C/C++, SQL, Bash
+**Backend & data** — Node.js, Express, GraphQL, PostgreSQL, MongoDB, Redis, Kafka
+**Infrastructure** — Docker, Kubernetes, AWS, GCP, Linux, Supabase
+**Frontend** — React, Next.js, Tailwind
+
+I work inside agentic dev tools daily — Claude Code, Codex, Cursor, Zed — and compose them into pipelines rather than using them one prompt at a time.
 
 ---
 
 ### 💼 Experience
 
-**Dottek — [YOUR ROLE HERE]** · Mar 2026 – Present
+**Dottek — [YOUR ROLE HERE]** · Mar 2026 (Completed)
 _[one or two lines on what you do / build there]_
 
 **LMS — Full-Stack Developer (Personal Project)** · Jan 2026 – Feb 2026
