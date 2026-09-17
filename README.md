@@ -50,9 +50,7 @@ An e-commerce web application covering product browsing and shopping flows.
 A TypeScript app to track and manage personal expenses, deployed and live.
 `TypeScript`
 
-**📱 [React Native Project Name]**
-_[one line on what it does]_
-`React Native`
+
 
 **📄 More on my profile**
 Check out all [24+ repositories](https://github.com/MalikJunaid92?tab=repositories) for more projects and experiments.
