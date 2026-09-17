@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 
-Full-stack developer who recently graduated and has been shipping real projects end to end — frontend, backend, and deployment.
+I don't just write code — I ship things that work, break them on purpose to understand why, then go build the next one. Right now that means going deep on AI engineering.
 
 - 🔍 Enthusiastic learner and problem solver, passionate about tackling challenging issues to build things that work
 - 🌱 Currently going deep on AI Engineering — LLM APIs, agents, and RAG — alongside Algorithms and System Design
@@ -49,8 +49,6 @@ An e-commerce web application covering product browsing and shopping flows.
 **💰 [Expense Tracker](https://github.com/MalikJunaid92/expense-tracker)**
 A TypeScript app to track and manage personal expenses, deployed and live.
 `TypeScript`
-
-
 
 **📄 More on my profile**
 Check out all [24+ repositories](https://github.com/MalikJunaid92?tab=repositories) for more projects and experiments.
