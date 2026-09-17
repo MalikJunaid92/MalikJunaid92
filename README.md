@@ -16,35 +16,23 @@ Full-stack developer who recently graduated and has been shipping real projects 
 
 - 🔍 Enthusiastic learner and problem solver, passionate about tackling challenging issues to build things that work
 - 🌱 Currently going deep on AI Engineering — LLM APIs, agents, and RAG — alongside Algorithms and System Design
-- 💻 Full-stack builder with **React, Node.js & TypeScript** — LMS, E-shop, and Expense Tracker shipped and deployed
+- ⚡ From idea to deployed product — I don't just write code, I ship it
 - 🧩 Solved **270+ problems on LeetCode**, sharpening DSA daily
 - 👯 Looking to collaborate on solid backend and AI-integrated projects
 - 📫 Reach me through the links above
 
 ---
 
-### 🛠️ Stack
+### 🛠️ Tech Stack
 
-**AI engineering** — LLM APIs (Anthropic, OpenAI, Gemini), MCP, tool calling, agent loops, LangGraph, RAG, embeddings, pgvector, evals and LLM-as-judge, LoRA / QLoRA fine-tuning, vLLM, Ollama
-**Languages** — TypeScript, Python, Java, Go, C/C++, SQL, Bash
-**Backend & data** — Node.js, Express, GraphQL, PostgreSQL, MongoDB, Redis, Kafka
-**Infrastructure** — Docker, Kubernetes, AWS, GCP, Linux, Supabase
-**Frontend** — React, Next.js, Tailwind
+* **Languages** — TypeScript, JavaScript, Python
+* **Backend** — Node.js, Express, REST APIs
+* **Frontend** — React, Next.js, Tailwind CSS
+* **Databases** — MongoDB, MySQL
+* **AI / LLM** _(learning)_ — LLM APIs (Anthropic, OpenAI, Gemini), MCP, tool calling, agent loops, LangGraph, RAG, embeddings, pgvector
+* **DevOps & Tools** — Git, GitHub, Docker, Vercel
 
-I work inside agentic dev tools daily — Claude Code, Codex, Cursor, Zed — and compose them into pipelines rather than using them one prompt at a time.
-
----
-
-### 💼 Experience
-
-**Dottek — [YOUR ROLE HERE]** · Mar 2026 (Completed)
-_[one or two lines on what you do / build there]_
-
-**LMS — Full-Stack Developer (Personal Project)** · Jan 2026 – Feb 2026
-Built a full-stack Learning Management System (client + server in TypeScript), deployed live.
-
-**Freelance — Full-Stack Developer** · Oct 2025 – Dec 2025
-Built E-shop, an e-commerce web application covering product browsing and shopping flows.
+I work inside agentic dev tools daily — Claude Code, Cursor — and I'm building toward composing them into pipelines rather than using them one prompt at a time.
 
 ---
 
